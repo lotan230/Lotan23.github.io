@@ -15,9 +15,10 @@ author: Jonathan Lotan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Links:
+    - GitHub: "https://github.com/lotan23"
+    - YouTube: "https://www.youtube.com/channel/UC7CgaSoKqRhnoksdTv6RZXg"
+    - Free Stuff: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   Author's home: "lotan.biz"
 
 # --- Logo --- #
