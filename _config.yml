@@ -41,11 +41,11 @@ round-avatar: true
 social-network-links:
   email: "Jonathan@lotan.biz"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: lotan23
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: Lotan23
+#  twitter: daattali
+#  patreon: DeanAttali
+  youtube: channel/UC7CgaSoKqRhnoksdTv6RZXg
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
